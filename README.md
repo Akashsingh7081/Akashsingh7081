@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My Name is Akash Singh I am a Competitive Coder
 <!--
 **Akashsingh7081/Akashsingh7081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
